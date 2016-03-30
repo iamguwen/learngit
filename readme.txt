@@ -1,5 +1,7 @@
 //the first txt file named readme.txt
 //first modify
+//second modift
+
 void  jia(int a[][N],int b[][N])
 {
         int i,j;
