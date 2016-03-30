@@ -1,3 +1,5 @@
+//the first txt file named readme.txt
+//first modify
 void  jia(int a[][N],int b[][N])
 {
         int i,j;
